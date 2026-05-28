@@ -1,0 +1,21 @@
+.and {
+    padding: 32px;
+}
+
+.one {
+    margin: 12px;
+    background-color: pink;
+    border: 2px solid darkblue;
+}
+
+.two {
+    margin-bottom: 48px;
+    background-color: lightblue;
+    border: 2px solid purple;
+}
+
+.three {
+    margin-left: 1000px;
+    background-color: orange;
+    border: 2px solid brown;
+}
